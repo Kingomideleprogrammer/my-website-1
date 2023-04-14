@@ -199,7 +199,7 @@
 .hero_heading{
     font-size: 100px;
     margin-bottom: 24px;
-    color: #131313;
+    color: #fff;
 }
 .hero_heading span{
     background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);
@@ -245,8 +245,8 @@
 }
 /*About section*/
 .main{
-    /*background-color: #131313;*/
-    background-image: url('backg1.jpg');
+    background-color: #000000;
+   /*background-image: url('backg1.jpg');*/
     background-position: center;
     background-size: cover;
     padding: 10rem 0;
