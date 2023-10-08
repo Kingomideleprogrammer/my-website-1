@@ -9,6 +9,7 @@ body{
 .navbar{
     background: #0a0a0a;
     height: 80px;
+    width:100%;
     display: flex;
     justify-content: center;
     align-items: center;
