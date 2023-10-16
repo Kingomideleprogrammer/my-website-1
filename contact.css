@@ -5,11 +5,11 @@
 }
 body{
     font-family: "Montserrat";
+    width: 100%;
 }
 .navbar{
     background: #0a0a0a;
-    height: 80px;
-    width:100%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -181,7 +181,7 @@ body{
 section{
 
     height: 100vh;
-    width: 100%;
+    /* width: 100%; */
     background-color: #fff;
     display: flex;
     align-items: center;
@@ -192,15 +192,15 @@ section{
     margin-top: 80px;
 }
 .container{
-    width: 90%;
-    max-width: 500px;
-    /* margin: 0 auto; */
+    /* width: 90%; */
+    /* max-width: 500px; */
+    margin: 0 auto;
     padding: 20px;
     box-shadow: 0px 0px 20px #00000010;
     background-color: #fff;
     border-radius: 8px;
-    /* margin-bottom: 20px;
-    margin-top: 10px; */
+    margin-bottom: 20px;
+    margin-top: 130px;
 }
 .form-group{
     width: 100%;
